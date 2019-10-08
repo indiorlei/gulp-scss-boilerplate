@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'TeXGyreAdventor-Bold';
+    src: local('TeXGyreAdventor-Bold'),
+        url('../fonts/TeXGyreAdventor-Bold.woff2') format('woff2'),
+        url('../fonts/TeXGyreAdventor-Bold.woff') format('woff'),
+        url('../fonts/TeXGyreAdventor-Bold.svg#TeXGyreAdventor-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TeXGyreAdventor-Regular';
+    src: local('TeXGyreAdventor-Regular'),
+        url('../fonts/TeXGyreAdventor-Regular.woff2') format('woff2'),
+        url('../fonts/TeXGyreAdventor-Regular.woff') format('woff'),
+        url('../fonts/TeXGyreAdventor-Regular.svg#TeXGyreAdventor-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
